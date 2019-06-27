@@ -13,7 +13,7 @@ Para quem nunca usou github antes siga este [tutorial](https://medium.com/@jose.
 
 # Descrição do Desefio
 
-Sendo este o primeiro desafio, cada equipe deverá adicionar o nome da equipa mais os nome de cada membro da equipe, para quem vai trabalhar em equipe, para quem não deverá simplesmente pôr o seu nome conforme abaixo.
+Sendo este o primeiro desafio, cada equipe deverá adicionar o nome da equipa mais os nome de cada membro da equipe, para quem vai trabalhar em equipe, para quem não, deverá simplesmente pôr o seu nome conforme abaixo.
 
 # Equipa do PyZe
 - Jose Tandavala
