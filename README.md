@@ -9,7 +9,7 @@ Sejam todos bem vindos a força tarefa #0001. Força tarefa é um projecto organ
 3. Clone o projecto no teu PC (Caso estejas  a trabalhar em equipe veja aqui como trabalhar em equipe)
 4. Faça o pull request e aguarda a provação do teu trabalho
 
-Para quem nunca usou github antes siga este [tutorial](https://medium.com/@jose.tandavala/github-por-onde-come%C3%A7ar-7a840fb024f8?postPublishedType=initial)
+Para quem nunca usou github antes siga este [tutorial](https://medium.com/@jose.tandavala/github-por-onde-come%C3%A7ar-7a840fb024f8?postPublishedType=initial) feito com amor pelo lider da organização.
 
 # Descrição do Desefio
 
