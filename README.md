@@ -22,8 +22,9 @@ Sendo este o primeiro desafio, cada equipe deverá adicionar o nome da equipa ma
 # Equipa a solo
 - João Lorenço
 
-# Equipa a solo
+# Equipa Momo
 - Humberto Fortes
+- Nolasco Dos Anjos
 
 ##  nome da tua equipe vai aqui, depois deixe esta mensagem para outras equipas
 
